@@ -1,7 +1,7 @@
 #
 # Sample Script used to calculate Edge Top average throughput in the last 5 days..
 #
-# Usage: VC_USERNAME='super@velocloud.net' VC_PASSWORD='vcadm!n' python XXXX.py
+# Usage: VC_USERNAME='xxxxx@velocloud.net' VC_PASSWORD='xxxxxx' python XXXX.py
 #
 
 import os
